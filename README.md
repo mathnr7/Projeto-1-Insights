@@ -54,8 +54,8 @@ Dividi as prioridades de compra em 3 categorias: Principal, Segunda e Terceira,
 ## Graficos 
 | Porcentagem de banheiros construidos nas casas | Porcentagem das atrações disponiveis perto das casas | Outros (Atrações) | Casas construidas e reformadas | Casas construidas | Casas construidas |
 |-|-|-|-|-|-|
-|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico1.png" width="310" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico2.png" width="310" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico3.png" width="310" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico4.png" width="310" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico5.png" width="310" height="405" />|<img
-src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico6.png" width="310" height="405" />|<img
+|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico1.png" width="500" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico2.png" width="500" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico3.png" width="500" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico4.png" width="500" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico5.png" width="500" height="405" />|<img
+src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico6.png" width="500" height="405" />|
 
 ### Analise
 
