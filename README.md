@@ -58,13 +58,18 @@ Dividi as prioridades de compra em 3 categorias: Principal, Segunda e Terceira,
 
 | Outros (Atrações) | Casas construidas e reformadas |
 |-|-|
-|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico3.png" width="500" height="500" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico4.png" width="500" height="700" />|
+|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico3.png" width="500" height="500" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico4.png" width="500" height="500" />|
 
 | Casas construidas | Casas construidas |
 |-|-|
-|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico5.png" width="500" height="700" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico6.png" width="500" height="700" />|
+|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico5.png" width="500" height="500" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico6.png" width="500" height="500" />|
 
 ### Analise
+- Casas que valem mais de 2 milhoes ja possuem uma quantidade base de dinheiro muito alta, assim prejudicando qualquer tipo de reforma ou reestruturação dela.
+- Quanto maior o numero do sqft_lot melhor é local para uma reforma, mas lembrando que o numero de pontos de vista influencia bastante e o preço base também 
+- A diferença entre 1 ponto de vista para 2 pontos de vista gera um aumento consideravel no preço da casa
+- Quanto maior for o sqft_living maior vai ser a influencia do sqft_basement no valor da casa
+- O waterfront não tem uma influencia consideravel em casas de valor baixo ou com uma quantidade de banheiros/quartos baixo 
 
 License
 ----
