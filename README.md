@@ -13,8 +13,11 @@ Esse conjunto de dados contém casas vendidas entre Maio de 2014 e Maio de 2015.
 
 ## Contexto do projeto - Dia 1: 
 A House Rocket é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia.
+
 Você é um Data Scientist contrato pela empresa para ajudar a encontrar as melhores oportunidades de negócio no mercado de imóveis. O CEO da House Rocket gostaria de maximizar a receita da empresa encontrando boas oportunidades de negócio.
+
 Sua principal estratégia é comprar boas casas em ótimas localizações com preços baixos e depois revendê-las posteriormente à preços mais altos. Quanto maior a diferença entre a compra e a venda, maior o lucro da empresa e portanto maior sua receita.
+
 Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrativas aos compradores e vendedores e a localização também pode influenciar os preços.
 
 - Quais casas o CEO da House Rocket deveria comprar e reformar para aumentar o preço de venda? 
@@ -36,7 +39,6 @@ Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrati
 
 ### Roteiro - Dia 2: 
 - Filtrar o arquivo com base nas necessidades do cliente 
-- 
 - Responder as perguntas
 
 ## Graficos 
