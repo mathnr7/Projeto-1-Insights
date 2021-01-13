@@ -58,11 +58,11 @@ Dividi as prioridades de compra em 3 categorias: Principal, Segunda e Terceira,
 
 | Outros (Atrações) | Casas construidas e reformadas |
 |-|-|
-|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico3.png" width="500" height="500" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico4.png" width="500" height="500" />|
+|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico3.png" width="500" height="500" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico4.png" width="500" height="700" />|
 
 | Casas construidas | Casas construidas |
 |-|-|
-|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico5.png" width="500" height="500" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico6.png" width="500" height="500" />|
+|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico5.png" width="500" height="700" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico6.png" width="500" height="700" />|
 
 ### Analise
 
