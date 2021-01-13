@@ -9,7 +9,6 @@ Projeto que cobre questão de negócio, o entendimento do negócio, a coleta de 
 
 ## Dados utilizados: 
 https://www.kaggle.com/harlfoxem/housesalesprediction
-
 Esse conjunto de dados contém casas vendidas entre Maio de 2014 e Maio de 2015. Você usará esses dados para desenvolver sua solução.
 
 ## Contexto do projeto - Dia 1: 
@@ -25,11 +24,17 @@ Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrati
 - Quais seriam as sugestões de mudanças? 
 - Qual o incremento no preço dado pela reforma? 
 
-### Roteiro - Dia 1: 
+## Roteiro - Dia 1: 
 - Limpeza e organização do arquivo 
 - Analise dos dados
 - Filtar os arquivos com base na analise feita 
-- Responder as perguntas
+
+## Resposta - Dia 1: 
+Dividi as prioridades de compra em 3 categorias: Principal, Segunda e Terceira,
+- As principais casas que o CEO deveria comprar são as de ID: 2322029048, 2220069003. Com a ampliação dos espaços de vivencia e adições de 3 quartos e 4 banheiros. As casas terão um aumento no valor atual de no mínimo 400% (x4).
+- As de segunda prioridade, ID: 2724079090 e 1125079111, possuem um valor base maior que as primeiras, o que dificulta o potencial aumento delas. As casas precisam de uma ampliação dos espaços de vivencia, adição de 2 quartos, 5 e 3 banheiros, respectivamente e a construção de um porão. As casas terão um aumento no valor atual de no mínimo 300%(x3).
+- As de terceira prioridade, ID: 722069232, 3626079040, 2522029039, 2624089007, 2623069031, 2323089009, 225079036, 619079096, 822039004, 522079022, 1623089165, são casas com grande disponibilidade de construção de áreas de vivencia, mas possuem problemas como preço base atual, condições de contrato ou necessidade de uma grande reforma na decoração. Mas uma base para a reforma é no mínimo a adição de 2 quartos, 4 banheiros e ampliação ou construção de porões. O incremento no preço das casas pode varias de no mínimo 200%(x2) até 400%(x4).
+
  
 ## Contexto do projeto - Dia 2:
 3 clientes distintos apareceram na corretora e estipularam os detalhes que gostariam de encontrar numa casa 
@@ -38,9 +43,13 @@ Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrati
 - Gabriel gostaria de uma casa que custasse menos de 550.000,00 e possua 4 quartos, 2 banheiros, 1 andar, 3 pontos de vista e construida ou reformada depois do ano de 2005 
 - Henrique deseja uma casa que custe menos de 350.000,00 e possua 2 quarto, 2 banheiros, 1 andar, 3 pontos de vista e construida ou reformada  entre 1990 e 2010
 
-### Roteiro - Dia 2: 
+## Roteiro - Dia 2: 
 - Filtrar o arquivo com base nas necessidades do cliente 
-- Responder as perguntas
+
+## Resposta - Dia 2:
+- Em nosso sistema só foi encontrado uma casa que atenda todos os requisitos perfeitamente de Paulo e 5 outras que possuem 3 ou 4 pontos de vista . A casa de ID: 9523104345, que custa 825.000,00 dolares, é a que atende todos os requisitos de Paulo
+- Foi encontrado a casa de ID: 2309710130, que custa 272.000,00 dolares. 
+- Encontramos 2 casas que atendem os requisitos perfeitamente de Henrique. As casas de ID: 5702450250 e 8141300030, com o mesmo valor de 340.000,00      
 
 ## Graficos 
 
