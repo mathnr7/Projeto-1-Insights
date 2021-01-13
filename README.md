@@ -52,9 +52,13 @@ Dividi as prioridades de compra em 3 categorias: Principal, Segunda e Terceira,
 - Encontramos 2 casas que atendem os requisitos perfeitamente de Henrique. As casas de ID: 5702450250 e 8141300030, com o mesmo valor de 340.000,00      
 
 ## Graficos 
-| Porcentagem de banheiros construidos nas casas | Porcentagem das atrações disponiveis perto das casas | Outros (Atrações) | Casas construidas e reformadas | Casas construidas | Casas construidas |
-|-|-|-|-|-|-|
-|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico1.png" width="500" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico2.png" width="500" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico3.png" width="500" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico4.png" width="500" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico5.png" width="500" height="405" />|<img
+| Porcentagem de banheiros construidos nas casas | Porcentagem das atrações disponiveis perto das casas | Outros (Atrações) |
+|-|-|-|
+|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico1.png" width="500" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico2.png" width="500" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico3.png" width="500" height="405" />|
+
+| Casas construidas e reformadas | Casas construidas | Casas construidas |
+|-|-|-|
+|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico4.png" width="500" height="405" />|<img src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico5.png" width="500" height="405" />|<img
 src="https://github.com/mathnr7/Projeto-1-Insights/blob/main/Graficos/Grafico6.png" width="500" height="405" />|
 
 ### Analise
