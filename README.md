@@ -9,6 +9,7 @@ Projeto que cobre questão de negócio, o entendimento do negócio, a coleta de 
 
 ## Dados utilizados: 
 https://www.kaggle.com/harlfoxem/housesalesprediction
+
 Esse conjunto de dados contém casas vendidas entre Maio de 2014 e Maio de 2015. Você usará esses dados para desenvolver sua solução.
 
 ## Contexto do projeto - Dia 1: 
